@@ -1,0 +1,11 @@
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\bin\Debug\netcoreapp2.2\loadHTML.deps.json
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\bin\Debug\netcoreapp2.2\loadHTML.runtimeconfig.json
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\bin\Debug\netcoreapp2.2\loadHTML.runtimeconfig.dev.json
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\bin\Debug\netcoreapp2.2\loadHTML.dll
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\bin\Debug\netcoreapp2.2\loadHTML.pdb
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\obj\Debug\netcoreapp2.2\loadHTML.csprojAssemblyReference.cache
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\obj\Debug\netcoreapp2.2\loadHTML.csproj.CoreCompileInputs.cache
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\obj\Debug\netcoreapp2.2\loadHTML.AssemblyInfoInputs.cache
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\obj\Debug\netcoreapp2.2\loadHTML.AssemblyInfo.cs
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\obj\Debug\netcoreapp2.2\loadHTML.dll
+C:\Users\FIT\Documents\GitHub\loadHTML\loadHTML\obj\Debug\netcoreapp2.2\loadHTML.pdb
